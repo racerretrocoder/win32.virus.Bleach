@@ -7,7 +7,7 @@ Logs an ip address to a webhook when the program is given permission to run the 
 overwrites the master boot record
 Bypasses defender
 
-# and the special return of everyones favorite 
-# bsod.exe
+# and a special version of everyones favorite executable
+# BSOD.exe
 
 Code coming soon 
