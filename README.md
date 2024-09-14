@@ -12,3 +12,5 @@ Bypasses defender. and more!
 # BSOD.exe
 
 Code coming soon 
+
+need to orginize the code into folders. then add compiled stuff
